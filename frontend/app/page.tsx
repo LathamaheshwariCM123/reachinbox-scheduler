@@ -43,7 +43,7 @@ type User = {
   google_id: string | null;
 };
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://reachinbox-scheduler-qan6.onrender.com";
 
 export default function Home() {
   // ============================================================
